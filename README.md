@@ -1,8 +1,7 @@
 # Budget-Calculator application
 
 Note:
-I created this project depending on this tutorial : https://www.youtube.com/watch?v=f6HYLHrYpGs.
-It was my first week in React, I used the same style in the vedio.
+I created this project depending on this tutorial (I used the same style ) : https://www.youtube.com/watch?v=f6HYLHrYpGs.
 
 You can try this application from here: [Budget-Calculator](http://budget-calculator-react-project.netlify.app).
 
